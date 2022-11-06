@@ -14,5 +14,15 @@
 			<artifactId>log4j-core</artifactId>
 			<version>2.17.0</version>
 		</dependency>
+		<dependency>
+			<groupId>com.pi4j</groupId>
+			<artifactId>pi4j-core</artifactId>
+			<version>1.3</version>
+		</dependency>
+		<dependency>
+			<groupId>com.diozero</groupId>
+			<artifactId>diozero-provider-wiringpi</artifactId>
+			<version>0.14</version>
+		</dependency>
 	</dependencies>
 </project>
